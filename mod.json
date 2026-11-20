@@ -1,0 +1,11 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "ayman.autobuild-lite",
+  "name": "AutoBuild Lite",
+  "version": "0.1.0",
+  "developer": "Ayman",
+  "description": "A lightweight, original building-tools prototype for Geometry Dash."
+}
